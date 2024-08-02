@@ -1,0 +1,531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\shelf\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\shelf\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\set\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\set\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\viewmodels\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\viewmodels\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\viewmodels\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\viewmodels\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\setservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\setservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\isetsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\isetsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\viewmodels\\setvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\viewmodels\\setvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\models\\setmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\models\\setmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\services\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\services\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\set\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\set\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|c:\\users\\israel fridless\\source\\repos\\library\\library\\migrations\\20240801173627_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3DB5B-BF31-4A1B-BDD3-E32DF72037A6}|Library\\Library.csproj|solutionrelative:library\\migrations\\20240801173627_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\BookService.cs",
+              "RelativeToolTip": "Library\\Services\\BookService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:10:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SetController.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\SetController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\SetController.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\SetController.cs",
+              "RelativeToolTip": "Library\\Controllers\\SetController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:28:30.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Library\\Create.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Library\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Library\\Create.cshtml",
+              "RelativeToolTip": "Library\\Views\\Library\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T18:32:05.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Set\\Create.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Set\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Set\\Create.cshtml",
+              "RelativeToolTip": "Library\\Views\\Set\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T11:30:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Shelf\\Create.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shelf\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Shelf\\Create.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shelf\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T07:24:57.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Library\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:35:50.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\BookVM.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModels\\BookVM.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\BookVM.cs",
+              "RelativeToolTip": "Library\\ViewModels\\BookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:27:19.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:16:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\IBookService.cs",
+              "RelativeToolTip": "Library\\Services\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:08:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\ShelfController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\ShelfController.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\ShelfController.cs",
+              "RelativeToolTip": "Library\\Controllers\\ShelfController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:44:45.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Library\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:43:41.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\LibraryVM.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModels\\LibraryVM.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\LibraryVM.cs",
+              "RelativeToolTip": "Library\\ViewModels\\LibraryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:01:58.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\ShelfService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\ShelfService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\ShelfService.cs",
+              "RelativeToolTip": "Library\\Services\\ShelfService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:53:25.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShelfVM.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\ShelfVM.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModels\\ShelfVM.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\ShelfVM.cs",
+              "RelativeToolTip": "Library\\ViewModels\\ShelfVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:58:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T08:26:12.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Models\\BookModel.cs",
+              "RelativeToolTip": "Library\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:15:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Models\\SetModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\SetModel.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Models\\SetModel.cs",
+              "RelativeToolTip": "Library\\Models\\SetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:40:07.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISetSevice.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\ISetSevice.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\ISetSevice.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\ISetSevice.cs",
+              "RelativeToolTip": "Library\\Services\\ISetSevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:42:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\SetVM.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModels\\SetVM.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\ViewModels\\SetVM.cs",
+              "RelativeToolTip": "Library\\ViewModels\\SetVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:50:57.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:25:50.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SetService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\SetService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\SetService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\SetService.cs",
+              "RelativeToolTip": "Library\\Services\\SetService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:44:13.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Library\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:39:57.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Library\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:06:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\LibraryService.cs",
+              "RelativeToolTip": "Library\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:10:20.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:24:43.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240801173627_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Migrations\\20240801173627_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Library\\Migrations\\20240801173627_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Migrations\\20240801173627_InitialCreate.cs",
+              "RelativeToolTip": "Library\\Migrations\\20240801173627_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:36:27.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShelfModel.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Models\\ShelfModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\ShelfModel.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Models\\ShelfModel.cs",
+              "RelativeToolTip": "Library\\Models\\ShelfModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:59:12.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "Library\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:39:24.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\IShelfService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\IShelfService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Services\\IShelfService.cs",
+              "RelativeToolTip": "Library\\Services\\IShelfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:55:36.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Set\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Set\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Set\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Set\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T10:47:06.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Shelf\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shelf\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\source\\repos\\Library\\Library\\Views\\Shelf\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shelf\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwCwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:02:32.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
