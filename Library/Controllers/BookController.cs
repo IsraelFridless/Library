@@ -3,6 +3,7 @@ using Library.Services;
 using Library.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace Library.Controllers
 {
     public class BookController : Controller
@@ -30,7 +31,7 @@ namespace Library.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(BookVM bookVM)
         {
-            try
+			try
             {
                 await _bookService.AddBook(bookVM);
                 return RedirectToAction("Index", new { setId = bookVM.SetId });

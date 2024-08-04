@@ -4,6 +4,7 @@ using Library.Models;
 using Library.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Principal;
+using static Library.Utils.NullUtils;
 
 namespace Library.Services
 {
@@ -25,7 +26,7 @@ namespace Library.Services
                 .Include(s => s.Books)
                 .FirstOrDefaultAsync(s => s.Id == bookVM.SetId);
             ShelfModel? shelf = await _context.Shelves.Include(s => s.Sets).ThenInclude(s => s.Books).FirstOrDefaultAsync(s => s.Id == set!.ShelfId);
-            BookModel? newBook = new()
+            BookModel newBook = new()
             {
                 Name = bookVM.Name,
                 Width = bookVM.Width,
@@ -33,13 +34,18 @@ namespace Library.Services
                 SetId = bookVM.SetId,
                 Set = set
             };
-            if(!HasEnoughSpace(shelf!, newBook))
+			if (IsAnyNull(shelf, set))
+            {
+                throw new Exception("Either the shelf or the set could not be found");
+            }
+
+			if (!HasEnoughSpace(shelf!, newBook))
             {
                 throw new Exception(
                     "Not enough space in the shelf, maybe try another one..."
                 );
             }
-            if(HieghtDifferences(shelf!, newBook) < 0.0)
+            if (HieghtDifferences(shelf!, newBook) < 0.0)
             {
                 throw new Exception(
                     "The book is too high for this shelf, maybe try another one..."

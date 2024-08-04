@@ -5,7 +5,7 @@ namespace Library.Services
 {
     public interface IShelfService
     {
-        List<ShelfModel> GetShelfModelsAsync(LibraryModel libraryModel);
+        List<ShelfModel> GetShelfModels(LibraryModel libraryModel);
 
         Task<List<ShelfModel>> GetShelvesByLibId(long libId);
         Task<ShelfModel> CreateNewShelf(ShelfVM shelfVM);

@@ -2,7 +2,9 @@
 using Library.Models;
 using Library.ViewModels;
 using Microsoft.EntityFrameworkCore;
+using static Library.Utils.NullUtils;
 using System.Collections.Generic;
+using System;
 
 namespace Library.Services
 {
@@ -18,7 +20,11 @@ namespace Library.Services
 		public async Task<ShelfModel> CreateNewShelf(ShelfVM shelfVM)
 		{
             LibraryModel? library = await _context.Libraries.FirstOrDefaultAsync(l => l.Id == shelfVM.LibraryId);
-            ShelfModel shelfModel = new() 
+			if (IsAnyNull(library))
+			{
+				throw new Exception("Library not found");
+			}
+			ShelfModel shelfModel = new() 
             { 
                 Height = shelfVM.Height,
                 Width = shelfVM.Width,
@@ -32,12 +38,16 @@ namespace Library.Services
             return shelfModel;
 		}
 
-		public List<ShelfModel> GetShelfModelsAsync(LibraryModel libraryModel) => 
+		public List<ShelfModel> GetShelfModels(LibraryModel libraryModel) => 
             libraryModel.Shelves;
 
         public async Task<List<ShelfModel>> GetShelvesByLibId(long libId)
         {
             var shelves = await _context.Shelves.Where(s => s.LibraryId == libId).ToListAsync();
+            if (IsAnyNull(shelves))
+            {
+				throw new Exception("Shelves not found");
+			}
             return shelves;
         }
     }

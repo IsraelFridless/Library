@@ -4,6 +4,8 @@ using Library.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Mvc;
+using static Library.Utils.NullUtils;
+
 
 namespace Library.Services
 {
@@ -21,7 +23,7 @@ namespace Library.Services
             LibraryModel? res = await _context.Libraries
                 .FirstOrDefaultAsync(x => x.Genre == genre);
 
-            if (res != null)
+            if (!IsAnyNull(res))
             {
                 throw new Exception(
                     $"Library: {genre} is already exists"
@@ -36,7 +38,12 @@ namespace Library.Services
 
         public Task<List<LibraryModel>> GetLibrariesAsync()
         {
-            return _context.Libraries.ToListAsync();
+            var libraries = _context.Libraries.ToListAsync();
+            if (IsAnyNull(libraries))
+            {
+                throw new Exception("Libraries not found");
+            }
+            return libraries;
         }
     }
 }
